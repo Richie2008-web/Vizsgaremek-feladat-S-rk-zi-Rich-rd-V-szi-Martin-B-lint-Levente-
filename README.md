@@ -1,13 +1,13 @@
 1. Csapatalakítás 
 Csapat fők: Sárközi Richárd, Vészi Martin, Bálint Levente 
 
- Project Manager: Sárközi Richárd
+Project Manager: Sárközi Richárd
 
- Frontend: Sárközi Richárd
+Frontend: Sárközi Richárd
 
- Backend: Vészi Martin
+Backend: Vészi Martin
 
- Adatbázis felügyelő: Bálint Levente
+Adatbázis felügyelő: Bálint Levente
 
 2. A KKK elvárásainak kijegyzetelése 
 - Legyen adatbázisa, és valós adatkezelést valósítson meg CRUD műveletek: létrehozás, módosítás, törlés, lekérdezés. 
