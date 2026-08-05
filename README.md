@@ -48,4 +48,4 @@ Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorla
 
  Fejlődéskövetés — trendek, stagnálás felismerése
 
-EZEK VÁLTOZHATNAK A JÖVŐBEN!!!
+	EZEK VÁLTOZHATNAK A JÖVŐBEN!!!
