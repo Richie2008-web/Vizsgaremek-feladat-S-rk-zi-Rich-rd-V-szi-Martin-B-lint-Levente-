@@ -8,7 +8,6 @@ Frontend: Sárközi Richárd
 Backend: Vészi Martin
 
 Adatbázis felügyelő: Bálint Levente
-(Ez lehet változni fog később) 
 
 2. A KKK elvárásainak kijegyzetelése 
 - Legyen adatbázisa, és valós adatkezelést valósítson meg CRUD műveletek: létrehozás, módosítás, törlés, lekérdezés. 
@@ -31,7 +30,7 @@ Adatbázis felügyelő: Bálint Levente
 
  
 
-3. Témaötletelés (ez lehet változni fog)
+3. Témaötletelés 
 - A. Edzésnapló weboldal:  
 
 Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorlatokat. Statisztikák, fejlődéskövetés, grafikonok.
