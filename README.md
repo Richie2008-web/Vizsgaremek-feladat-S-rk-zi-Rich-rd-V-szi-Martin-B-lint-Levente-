@@ -32,7 +32,7 @@ Adatbázis felügyelő: Bálint Levente
  
 
 3. Témaötletelés (ez lehet változni fog)
-* A. Edzésnapló weboldal:  
+- A. Edzésnapló weboldal:  
 
 Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorlatokat. Statisztikák, fejlődéskövetés, grafikonok.
 
@@ -47,4 +47,5 @@ Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorla
  Grafikonok — vonaldiagram, oszlopdiagram
 
  Fejlődéskövetés — trendek, stagnálás felismerése
+
 EZEK VÁLTOZHATNAK A JÖVŐBEN!!!
