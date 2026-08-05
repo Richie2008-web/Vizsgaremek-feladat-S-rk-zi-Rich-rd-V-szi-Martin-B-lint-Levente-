@@ -35,14 +35,14 @@ Edzésnapló weboldal: Felhasználók rögzíthetik az edzéseiket, súlyokat, i
 
  funkciók:
 
- Edzés rögzítése: gyakorlat, súly, ismétlés, sorozat, jegyzet
+  Edzés rögzítése: gyakorlat, súly, ismétlés, sorozat, jegyzet
 
- Gyakorlatlista: saját gyakorlatok + előre definiáltak
+  Gyakorlatlista: saját gyakorlatok + előre definiáltak
 
- Statisztikák: heti/havi volumen, PR-ek, terhelés
+  Statisztikák: heti/havi volumen, PR-ek, terhelés
 
- Grafikonok: vonaldiagram, oszlopdiagram
-
- Fejlődéskövetés: trendek, stagnálás felismerése
+  Grafikonok: vonaldiagram, oszlopdiagram
+ 
+  Fejlődéskövetés: trendek, stagnálás felismerése
 
 EZEK VÁLTOZHATNAK A JÖVŐBEN!!!
