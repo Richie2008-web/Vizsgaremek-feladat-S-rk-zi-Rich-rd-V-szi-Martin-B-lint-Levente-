@@ -31,9 +31,7 @@ Csapat fők: Sárközi Richárd, Vészi Martin, Bálint Levente
  
 
 3. Témaötletelés 
-Edzésnapló weboldal  
-
-Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorlatokat. Statisztikák, fejlődéskövetés, grafikonok.
+Edzésnapló weboldal: Felhasználók rögzíthetik az edzéseiket, súlyokat, ismétléseket, gyakorlatokat. Statisztikák, fejlődéskövetés, grafikonok.
 
  funkciók:
 
