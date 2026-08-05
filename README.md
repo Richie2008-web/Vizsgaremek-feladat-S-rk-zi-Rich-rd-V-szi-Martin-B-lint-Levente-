@@ -13,9 +13,7 @@ Csapat fők: Sárközi Richárd, Vészi Martin, Bálint Levente
 - Legyen adatbázisa, és valós adatkezelést valósítson meg CRUD műveletek: létrehozás, módosítás, törlés, lekérdezés. 
 - Backend: API végpontok, adatkezelés 
 - Frontend: kliensoldali felület 
-- A két rész külön komponens, külön fejlesztési logikával 
 - A kliens működjön asztali és mobil eszközön is (Reszponzívitás)
-- Tiszta kód elvei (Clean Code) 
 - Olvasható, logikus kódszerkezet 
 - Moduláris felépítés 
 - Érthető változónevek 
