@@ -7,7 +7,7 @@ Frontend: Sárközi Richárd
 
 Backend: Vészi Martin
 
-Adatbázis felügyelő: Bálint Levente
+Adatbázis: Bálint Levente
 
 2. A KKK elvárásainak kijegyzetelése 
 - Legyen adatbázisa, és valós adatkezelést valósítson meg CRUD műveletek: létrehozás, módosítás, törlés, lekérdezés. 
