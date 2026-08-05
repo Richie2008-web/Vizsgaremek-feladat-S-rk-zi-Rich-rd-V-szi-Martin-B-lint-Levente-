@@ -2,8 +2,11 @@
 Csapat fők: Sárközi Richárd, Vészi Martin, Bálint Levente 
 
 Csapatvezető: Sárközi Richárd
-Frontend készítő: Sárközi Richárd
-Backend készítő: Vészi Martin
+
+Frontend: Sárközi Richárd
+
+Backend: Vészi Martin
+
 Adatbázis felügyelő: Bálint Levente
 (Ezek még változhatnak később) 
 
